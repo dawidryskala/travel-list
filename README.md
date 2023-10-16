@@ -17,11 +17,11 @@ The footer keeps you informed about the number of items on your list and how man
 
 ### Get Started with Travel List:
 
-    - Begin by entering your items into the list using the user-friendly form.
-    - Sort your items in a way that suits your preferences.
-    - Check off items as you pack them to stay organized.
-    - Easily remove items when they are no longer needed.
-    - Keep an eye on your progress with real-time statistics in the footer.
+- Begin by entering your items into the list using the user-friendly form.
+- Sort your items in a way that suits your preferences.
+- Check off items as you pack them to stay organized.
+- Easily remove items when they are no longer needed.
+- Keep an eye on your progress with real-time statistics in the footer.
 
 Travel List is the perfect companion for a well-organized and stress-free trip. Let React simplify your travel preparations, and enjoy a smooth journey to your dream destination. 🌴🧳✈️
 
